@@ -1,4 +1,5 @@
-# Hype Express ![KakaoTalk_20221129_131311358](https://user-images.githubusercontent.com/80263801/204437317-a285fdb3-2d8c-4e4d-b4c6-52f7562caf83.png)
+# Hype Express ![로고](https://user-images.githubusercontent.com/80263801/204437496-6b6c193b-21a0-44c2-9f50-43218ca2baf7.png)
+
 
 # 프로젝트 소개
 * 팀명 : Hype Express
