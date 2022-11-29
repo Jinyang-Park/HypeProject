@@ -1,4 +1,4 @@
- ![로고](https://user-images.githubusercontent.com/80263801/204437496-6b6c193b-21a0-44c2-9f50-43218ca2baf7.png)
+ ![로고](https://user-images.githubusercontent.com/80263801/204437496-6b6c193b-21a0-44c2-9f50-43218ca2baf7.png) #Hype Express
 
 
 # 프로젝트 소개
