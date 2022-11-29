@@ -2,7 +2,7 @@
 
 
 ## Hype Express 소개
-멋지고 쿨한 소식들을 사용자 공간에 배달해주자
+멋지고 쿨한 소식들을 사용자 공간에 배달하자
 
 ## Hype Express 목적
 최신 패션, 음식, 여행 그리고 엔터테이먼트 등 다양한 분야의 소식을 데일리 뉴스와 유니크한 콘텐츠를 제공하는 플랫폼
@@ -12,8 +12,8 @@
 |------|------|------|------|------|
 |[Github](https://github.com/Jinyang-Park)|[Github](https://github.com/chaaaniii)|[Github](https://github.com/2sel)|[Github](https://github.com/YoungJae0910)|[Github](https://github.com/Gon1782)|
 
-# 기능 구현
-* 로그인, 회원 가입 : 파이어베이스의 Authentication 에서 제공하는 api를 이용하여 아래 회원 가입, 로그인을 구현
+## 기능 구현
+* 로그인, 회원 가입 : 파이어베이스에서 제공하는 api를 이용하여 아래 회원 가입, 로그인을 구현 / 정규표현식을 이용한 유효성 검사 / 로그인/회원가입 예외처리 (이미 존재하는 이메일, 비밀번호 오류 등) 
 - 로그인, 회원 가입
     - Authentication 에서 제공하는 api를 이용하여 아래 회원 가입, 로그인을 구현해보세요.
         - 아이디(이메일), 패스워드 로그인 및 회원가입
