@@ -8,7 +8,7 @@
 # Hype Express 팀원 소개
 |박진양|조영찬|김예슬|유영재|한상권
 |------|------|------|------|------|
-|[Github](https://github.com/Jinyang-Park)]|[Github](https://github.com/chaaaniii)|[Github](https://https://github.com/2sel)||[Github](https://github.com/YoungJae0910)||[Github](https://github.com/Gon1782)|
+|[Github](https://github.com/Jinyang-Park)|[Github](https://github.com/chaaaniii)|[Github](https://https://github.com/2sel)|[Github](https://github.com/YoungJae0910)|[Github](https://github.com/Gon1782)|
 
 # 기능 구현
 * 로그인, 회원 가입 : 파이어베이스의 Authentication 에서 제공하는 api를 이용하여 아래 회원 가입, 로그인을 구현
