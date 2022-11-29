@@ -4,10 +4,11 @@
 # Hype Express 소개
 * 팀명: Hype Express
 * 프로젝트 설명: 최신 패션,음식,여행 그리고 엔터테이먼트 등 다양한 분야의 소식을 데일리 뉴스와 유니크한 콘텐츠를 제공하는 플랫폼을 기획
-* 
+
+# Hype Express 팀원 소개
 |박진양|조영찬|김예슬|유영재|한상권
 |------|------|------|------|------|
-|테스트1|테스트2|테스트3||테스트3||테스트3|
+|[Github(https://github.com/Jinyang-Park)]|[Github(https://github.com/chaaaniii)|Github(https://https://github.com/2sel)||Github(https://github.com/YoungJae0910)||Github(https://github.com/Gon1782)|
 
 # 기능 구현
 * 로그인, 회원 가입 : 파이어베이스의 Authentication 에서 제공하는 api를 이용하여 아래 회원 가입, 로그인을 구현
