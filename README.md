@@ -13,11 +13,7 @@
 |[Github](https://github.com/Jinyang-Park)|[Github](https://github.com/chaaaniii)|[Github](https://github.com/2sel)|[Github](https://github.com/YoungJae0910)|[Github](https://github.com/Gon1782)|
 
 ## 기능 구현
-* 로그인, 회원 가입 : 파이어베이스에서 제공하는 api를 이용하여 아래 회원 가입, 로그인을 구현 / 정규표현식을 이용한 유효성 검사 / 로그인/회원가입 예외처리 (이미 존재하는 이메일, 비밀번호 오류 등) 
-- 로그인, 회원 가입
-    - Authentication 에서 제공하는 api를 이용하여 아래 회원 가입, 로그인을 구현해보세요.
-        - 아이디(이메일), 패스워드 로그인 및 회원가입
-        - 소셜 로그인 (구글, 깃헙)
+* 로그인, 회원 가입 + 소셜 로그인 (구글, 깃헙) : 파이어베이스에서 제공하는 api를 이용하여 아래 회원 가입, 로그인을 구현 / 정규표현식을 이용한 유효성 검사 / 이미 존재하는 이메일, 비밀번호 오류 예외처리
 - CRUD
     - Firestore 에서 제공하는 api를 이용하여 CRUD 데이터베이스 핸들링을 구현해보세요.
     - CUD(등록, 수정, 삭제)가 일어날 때 마다 R(조회)해서 자연스럽게 화면 변경을 해보세요.
