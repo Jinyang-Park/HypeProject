@@ -40,4 +40,6 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 </div>
+s3를 통한 배포 및 Route 53, 가비아를 이용하여 도메인 연결
+
 
