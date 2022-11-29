@@ -1,12 +1,13 @@
  ![로고](https://user-images.githubusercontent.com/80263801/204437496-6b6c193b-21a0-44c2-9f50-43218ca2baf7.png)
 
 
-# Hype Express 소개
-* 팀명: Hype Express
-* 프로젝트 설명: 최신 패션,음식,여행 그리고 엔터테이먼트 등 다양한 분야의 소식을 데일리 뉴스와 유니크한 콘텐츠를 제공하는 플랫폼을 기획
-* 프로젝트 목표 :
+## Hype Express 소개
+* 팀명: Hype Express - 멋지고 쿨한 소식들을 사용자 공간에 배달해주자라는 뜻입니다.
 
-# Hype Express 팀원 소개
+## Hype Express 프로젝트 목표
+ 최신 패션,음식,여행 그리고 엔터테이먼트 등 다양한 분야의 소식을 데일리 뉴스와 유니크한 콘텐츠를 제공하는 플랫폼을 기획
+
+## Hype Express 팀원 소개
 |박진양|조영찬|김예슬|유영재|한상권
 |------|------|------|------|------|
 |[Github](https://github.com/Jinyang-Park)|[Github](https://github.com/chaaaniii)|[Github](https://github.com/2sel)|[Github](https://github.com/YoungJae0910)|[Github](https://github.com/Gon1782)|
